@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on my Projects
 - 🌱 I’m currently learning DevOps
 - 👯 I’m looking to collaborate on My Projects
-- 🤔 I’m looking for help with PHP  
+- 🤔 I use PHP to program
 - 💬 Ask me about Myself
 - 📫 How to reach me: juan.caicedo@juancaicedodevops.xyz
 - 😄 Pronouns: he/him
